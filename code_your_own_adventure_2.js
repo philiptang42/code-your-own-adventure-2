@@ -1,1 +1,1 @@
-var user = prompt("What's your name?"");
+var user = prompt("What's your name?").toUpperCase();
